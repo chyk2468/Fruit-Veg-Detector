@@ -119,7 +119,8 @@ print("I think this is:", labels[class_id])
 
 Your model will respond with something like:
 
-> "I think this is: **pineapple**"
+<img width="1637" height="826" alt="image" src="https://github.com/user-attachments/assets/0f17a3d6-29ff-448b-8a38-6854a983805a" />
+
 
 ---
 
