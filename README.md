@@ -1,14 +1,12 @@
 # 📘 Fruit & Vegetable Classification Project
 
-Welcome to your **AI-powered produce detector** — built entirely from the files *you* provided.
-No extra files. No invented folders. Only what exists:
+Only what exists:
 
 * `labels.txt` (your 36‑class produce list) fileciteturn0file0
 * `Training_fruit_vegetabble.ipynb`
 * `Test.ipynb`
 * `fruit_model.h5`
 
-This README is rewritten with a more creative, engaging style while staying 100% faithful to the provided files.
 
 ---
 
